@@ -23,7 +23,7 @@ repository               : "nguyenqanh/nguyenqanh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Quynh Anh NGUYEN"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Medical Image Analysis Lab"
