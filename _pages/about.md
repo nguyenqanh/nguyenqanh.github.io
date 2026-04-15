@@ -32,6 +32,6 @@ Personal Interests
 
 Access
 ======
-Room 303, Building 5, 3rd Floor
-Tokyo University of Agriculture and Technology, Koganei Campus
+Room 303, Building 5, 3rd Floor  
+Tokyo University of Agriculture and Technology, Koganei Campus  
 2-24-16 Nakacho, Koganei, Tokyo 184-0012, Japan
