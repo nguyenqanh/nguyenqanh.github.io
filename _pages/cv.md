@@ -17,13 +17,13 @@ Languages: Vietnamese, English, Japanese
 
 Education
 ======
-* **2024/04–2027/03: Ph.D. in Computer Science**
+* **2024/04–2027/03: Ph.D. in Electrical Engineering and Computer Science**
   * Department of Electrical Engineering and Computer Science, Graduate School of Engineering, TUAT
   * Supervisor: Prof. Akinobu Shimizu
 * **2023/09-2023/11: Research Exchange Student**
   * ESIEE Paris, France
   * Researched on topology in medical image analysis
-* **2022/04-2024/03: Master of Engineering in Computer Science**
+* **2022/04-2024/03: Master of Engineering in Electrical and Electronic Engineering**
   * Department of Electrical and Electronic Engineering, Graduate School of Engineering, TUAT
   * Supervisor: Prof. Akinobu Shimizu
   * Thesis: Improvement of skeleton segmentation of bone scintigrams using transformers and a component tree loss function
