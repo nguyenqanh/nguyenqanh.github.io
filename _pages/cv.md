@@ -34,7 +34,7 @@ Education
 
 Experience
 ======
-* 2026/01: Researcher | Internship
+* 2026/01: Researcher, Internship
   * Hitachi Research & Development Group, Tokyo, Japan
   * Analyzed ground-penetrating radar (GPR) images for buried object detection
   * Researched methods to mitigate domain shift in detection models
