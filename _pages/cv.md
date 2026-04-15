@@ -34,17 +34,17 @@ Education
 
 Experience
 ======
-* 2019/09–2022/02: Data Scientist | Internship
+* 2019/09–2022/02: Data Scientist, Internship
   * atta Inc., Tokyo, Japan
   * Analyzed flight and hotel pricing data and improved price prediction models
   * Developed backend systems and implemented unit tests for the SmartORDER service
 
-* 2022/02–2022/10: AI Engineer | Internship
+* 2022/02–2022/10: AI Engineer, Internship
   * Global Walkers, Inc., Tokyo, Japan
   * Analyzed and augmented voice data and improved voice classification models
   * Collected depth camera data and improved human pose estimation models
 
-* 2022/11–2024/11: R&D Engineer | Internship
+* 2022/11–2024/11: R&D Engineer, Internship
   * Corpy & Co., Inc., Tokyo, Japan
   * Annotated factory video data for object detection to analyze workflows
   * Researched object detection and human concentration detection methods
