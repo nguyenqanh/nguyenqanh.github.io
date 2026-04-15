@@ -17,17 +17,17 @@ Languages: Vietnamese, English, Japanese
 
 Education
 ======
-* **Apr 2024 - Mar 2027: Ph.D. in Electrical Engineering and Computer Science**
+* **Apr 2024 – Mar 2027: Ph.D. in Electrical Engineering and Computer Science**
   * Department of Electrical Engineering and Computer Science, Graduate School of Engineering, TUAT
   * Supervisor: Prof. Akinobu Shimizu
-* **Sep 2023 - Nov 2023: Research Exchange Student**
+* **Sep 2023 – Nov 2023: Research Exchange Student**
   * ESIEE Paris, France
   * Researched on topology in medical image analysis
-* **Apr 2022 - Mar 2024: Master of Engineering in Electrical and Electronic Engineering**
+* **Apr 2022 – Mar 2024: Master of Engineering in Electrical and Electronic Engineering**
   * Department of Electrical and Electronic Engineering, Graduate School of Engineering, TUAT
   * Supervisor: Prof. Akinobu Shimizu
   * Thesis: Improvement of skeleton segmentation of bone scintigrams using transformers and a component tree loss function
-* **Apr 2018 - Mar 2022: Bachelor of Science in Information Networking for Innovation and Design**
+* **Apr 2018 – Mar 2022: Bachelor of Science in Information Networking for Innovation and Design**
   * Faculty of Information Networking for Innovation and Design (INIAD), Toyo University
   * Supervisor: Prof. Shugo Nakamura
   * Thesis: Comparison of vision transformer-based methods for intracranial hemorrhage detection in CT images
