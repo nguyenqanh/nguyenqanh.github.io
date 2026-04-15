@@ -11,6 +11,7 @@ Hi, my name is Anh. I am a PhD student in the Medical Image Analysis Laboratory,
 
 Interests
 ======
+- AI & Data analysis
 - Computer vision (image segmentation, object detection)
 - Medical image analysis
 - Topology
