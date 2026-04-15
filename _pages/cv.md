@@ -11,40 +11,32 @@ redirect_from:
 
 General Information
 ======
-Full name: Nguyen Quynh Anh | グエン クイン アイン
-Date of birth: April 18, 1999
+Full name: Nguyen Quynh Anh | グエン クイン アイン  
+Date of birth: April 18, 1999  
 Languages: Vietnamese, English, Japanese
 
 Education
 ======
-* 2024–2027: Ph.D. in Computer Science
-  * Department of Electrical Engineering and Computer Science, Graduate School of Engineering, Tokyo University of Agriculture and Technology
-  * Major: Computer Science
-  * Area of specialization: Medical image analysis
+* 2024/4–2027/3: Ph.D. in Computer Science
+  * Department of Electrical Engineering and Computer Science, Graduate School of Engineering, TUAT
   * Supervisor: Prof. Akinobu Shimizu
-* 2022-2024: Master of Engineering in Electrical Engineering
-  * Department of Electrical and Electronic Engineering, Graduate School of Engineering, Tokyo University of Agriculture and Technology
-  * Major: Electrical and Electronic Engineering
-  * Area of specialization: Medical image analysis
+* 2022/4-2024/3: Master of Engineering in Electrical Engineering
+  * Department of Electrical and Electronic Engineering, Graduate School of Engineering, TUAT
   * Supervisor: Prof. Akinobu Shimizu
   * Thesis: Improvement of skeleton segmentation of bone scintigrams using transformers and a component tree loss function
-  * GPA: 3.4/4.0
-* 2018-2022: Bachelor of Engineering in Information Networking for Innovation and Design
+* 2018/4-2022/3: Bachelor of Engineering in Information Networking for Innovation and Design
   * Faculty of Information Networking for Innovation and Design (INIAD), Toyo University
-  * Major: Information Networking for Innovation and Design (Computer Science and Engineering Course)
-  * Area of specialization: Machine learning, data science
   * Supervisor: Prof. Shugo Nakamura
   * Thesis: Comparison of vision transformer-based methods for intracranial hemorrhage detection in CT images
-  * GPA: 4.18/4.3
 
 Work experience and internships
 ======
-* Spring 2024: Academic Pages Collaborator
+* 2019/9-2022: atta Inc.
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* 2022: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
