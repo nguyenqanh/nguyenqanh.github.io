@@ -29,7 +29,6 @@ Personal interests
 - Sports
 - Photography
 - Traveling
-- Cooking and gardening
 
 Access
 ======
