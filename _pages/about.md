@@ -20,7 +20,7 @@ Skills and tools
 ======
 - Programming: C/C++ (2+ years), Python (7+ years), Java, JavaScript
 - Computer vision: OpenCV, NVIDIA CUDA
-- Machine learning / Deep learning: PyTorch, scikit-learn, pandas, seaborn, matplotlib
+- Machine learning/Deep learning: PyTorch, scikit-learn, pandas, seaborn, matplotlib
 - Systems: Linux, Docker
 
 Personal interests
