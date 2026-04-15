@@ -17,36 +17,36 @@ Languages: Vietnamese, English, Japanese
 
 Education
 ======
-* 2024/04–2027/03: Ph.D. in Computer Science
+* **2024/04–2027/03: Ph.D. in Computer Science**
   * Department of Electrical Engineering and Computer Science, Graduate School of Engineering, TUAT
   * Supervisor: Prof. Akinobu Shimizu
-* 2023/09-2023/11: Research Exchange Student
+* **2023/09-2023/11: Research Exchange Student**
   * ESIEE Paris, France
   * Researched on topology in medical image analysis
-* 2022/04-2024/03: Master of Engineering in Electrical Engineering
+* **2022/04-2024/03: Master of Engineering in Computer Science**
   * Department of Electrical and Electronic Engineering, Graduate School of Engineering, TUAT
   * Supervisor: Prof. Akinobu Shimizu
   * Thesis: Improvement of skeleton segmentation of bone scintigrams using transformers and a component tree loss function
-* 2018/04-2022/03: Bachelor of Engineering in Information Networking for Innovation and Design
+* **2018/04-2022/03: Bachelor of Science in Information Networking for Innovation and Design**
   * Faculty of Information Networking for Innovation and Design (INIAD), Toyo University
   * Supervisor: Prof. Shugo Nakamura
   * Thesis: Comparison of vision transformer-based methods for intracranial hemorrhage detection in CT images
 
 Experience
 ======
-* 2026/01: Researcher, Internship
+* **2026/01: Researcher, Internship**
   * Hitachi Research & Development Group, Tokyo, Japan
   * Analyzed ground-penetrating radar (GPR) images for buried object detection
   * Researched methods to mitigate domain shift in detection models
-* 2022/11–2024/11: R&D Engineer, Internship
+* **2022/11–2024/11: R&D Engineer, Internship**
   * Corpy & Co., Inc., Tokyo, Japan
   * Annotated factory video data for object detection to analyze workflows
   * Researched object detection and human concentration detection methods
-* 2022/02–2022/10: AI Engineer, Internship
+* **2022/02–2022/10: AI Engineer, Internship**
   * Global Walkers, Inc., Tokyo, Japan
   * Analyzed and augmented voice data and improved voice classification models
   * Collected depth camera data and improved human pose estimation models
-* 2019/09–2022/02: Data Scientist, Internship
+* **2019/09–2022/02: Data Scientist, Internship**
   * atta Inc., Tokyo, Japan
   * Analyzed flight and hotel pricing data and improved price prediction models
   * Developed backend systems and implemented unit tests for the SmartORDER service
