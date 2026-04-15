@@ -25,13 +25,13 @@ Skills and tools
 
 Personal interests
 ======
-- Sports: Watching soccer and tennis; playing badminton and going to the gym
+- Sports
 - Photography
 - Traveling
 - Cooking and gardening
 
 Access
 ======
-Room 303, Building 5, 3rd Floor  
+Room 303, 3rd Floor, Building 5
 Tokyo University of Agriculture and Technology, Koganei Campus  
 2-24-16 Nakacho, Koganei, Tokyo 184-0012, Japan
