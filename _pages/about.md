@@ -35,3 +35,7 @@ Access
 Room 303, 3rd Floor, Building 5  
 Tokyo University of Agriculture and Technology, Koganei Campus  
 2-24-16 Nakacho, Koganei, Tokyo 184-0012, Japan
+
+Contact
+======
+Email: nguyenqanh1804[at]gmail.com or s240718u[at]st.go.tuat.ac.jp
