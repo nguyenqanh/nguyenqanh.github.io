@@ -17,17 +17,17 @@ Languages: Vietnamese, English, Japanese
 
 Education
 ======
-* **Apr 2024 – Mar 2027: Ph.D. in Electrical Engineering and Computer Science**
+* **Apr 2024 - Mar 2027: Ph.D. in Electrical Engineering and Computer Science**
   * Department of Electrical Engineering and Computer Science, Graduate School of Engineering, TUAT
   * Supervisor: Prof. Akinobu Shimizu
-* **Sep 2023 – Nov 2023: Research Exchange Student**
+* **Sep 2023 - Nov 2023: Research Exchange Student**
   * ESIEE Paris, France
   * Researched on topology in medical image analysis
-* **Apr 2022 – Mar 2024: Master of Engineering in Electrical and Electronic Engineering**
+* **Apr 2022 - Mar 2024: Master of Engineering in Electrical and Electronic Engineering**
   * Department of Electrical and Electronic Engineering, Graduate School of Engineering, TUAT
   * Supervisor: Prof. Akinobu Shimizu
   * Thesis: Improvement of skeleton segmentation of bone scintigrams using transformers and a component tree loss function
-* **Apr 2018 – Mar 2022: Bachelor of Science in Information Networking for Innovation and Design**
+* **Apr 2018 - Mar 2022: Bachelor of Science in Information Networking for Innovation and Design**
   * Faculty of Information Networking for Innovation and Design (INIAD), Toyo University
   * Supervisor: Prof. Shugo Nakamura
   * Thesis: Comparison of vision transformer-based methods for intracranial hemorrhage detection in CT images
@@ -38,15 +38,15 @@ Experience
   * Hitachi Research & Development Group, Tokyo, Japan
   * Analyzed ground-penetrating radar (GPR) images for buried object detection
   * Researched methods to mitigate domain shift in detection models
-* **Nov 2022 – Nov 2024: R&D Engineer, Internship**
+* **Nov 2022 - Nov 2024: R&D Engineer, Internship**
   * Corpy & Co., Inc., Tokyo, Japan
   * Annotated factory video data for object detection to analyze workflows
   * Researched object detection and human concentration detection methods
-* **Feb 2022 – Oct 2022: AI Engineer, Internship**
+* **Feb 2022 - Oct 2022: AI Engineer, Internship**
   * Global Walkers, Inc., Tokyo, Japan
   * Analyzed and augmented voice data and improved voice classification models
   * Collected depth camera data and improved human pose estimation models
-* **Sep 2019 – Feb 2022: Data Scientist, Internship**
+* **Sep 2019 - Feb 2022: Data Scientist, Internship**
   * atta Inc., Tokyo, Japan
   * Analyzed flight and hotel pricing data and improved price prediction models
   * Developed backend systems and implemented unit tests for the SmartORDER service
@@ -66,9 +66,9 @@ Publications
 
 Honors and awards
 ======
-* 2024 – 2027: Sato Yo International Scholarship (Doctoral degree)
-* 2022 – 2024: ITO Foundation for International Education Exchange Scholarship (Master’s degree)
-* 2018 – 2022: Toyo Top Global Scholarship A (full scholarship for Bachelor's degree at Toyo University)
+* 2024 - 2027: Sato Yo International Scholarship (Doctoral degree)
+* 2022 - 2024: ITO Foundation for International Education Exchange Scholarship (Master’s degree)
+* 2018 - 2022: Toyo Top Global Scholarship A (full scholarship for Bachelor's degree at Toyo University)
 * 2022: Graduated with summa cum laude honors, Toyo University (GPA: 4.18/4.3)
 * 2019: 5th Place, マイナビ × SIGNATE Student Cup 2019: 賃貸物件の家賃予測 (in collaboration with atta Inc.)
 * 2016: Participated in the Vietnam National Secondary Student Science and Engineering Fair (VSEF) in Computational Biology and Bioinformatics
@@ -76,7 +76,7 @@ Honors and awards
 
 Service and leadership
 ======
-* 2022 – 2023: Member, Vietnamese Youth and Student Association in Japan (VYSA)
-* 2020 – 2021: Team Leader, DigixHealth – A health-supporting web application aimed at SDG 3
+* 2022 - 2023: Member, Vietnamese Youth and Student Association in Japan (VYSA)
+* 2020 - 2021: Team Leader, DigixHealth - A health-supporting web application aimed at SDG 3
 * Dec 2021: Student Volunteer, SIGGRAPH Asia 2021, Tokyo, Japan
 * Aug 2018: IOI Supporter, International Olympiad in Informatics 2018, Tsukuba, Japan
