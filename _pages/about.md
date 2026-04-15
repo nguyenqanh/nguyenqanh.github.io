@@ -16,14 +16,14 @@ Interests
 - Topology
 - Mathematical morphology
 
-Skills and Tools
+Skills and tools
 ======
 - Programming: C/C++ (2+ years), Python (7+ years), Java, JavaScript
 - Computer vision: OpenCV, NVIDIA CUDA
 - Machine learning / Deep learning: PyTorch, scikit-learn, pandas, seaborn, matplotlib
 - Systems: Linux, Docker
 
-Personal Interests
+Personal interests
 ======
 - Sports: Watching soccer and tennis; playing badminton and going to the gym
 - Photography
